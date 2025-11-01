@@ -1,5 +1,5 @@
 # site-ong
-atividade 1, site-ong
+ site-ong
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
